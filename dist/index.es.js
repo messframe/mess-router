@@ -1,5 +1,3 @@
-import 'core-js/modules/es6.regexp.split';
-
 function createCommonjsModule(fn, module) {
 	return module = { exports: {} }, fn(module, module.exports), module.exports;
 }
