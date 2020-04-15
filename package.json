@@ -1,6 +1,6 @@
 {
   "name": "mess-router",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "",
   "main": "dist/index.es.js",
   "dependencies": {},

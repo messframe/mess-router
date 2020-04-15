@@ -5,7 +5,7 @@ const json = require("rollup-plugin-json")
 const commonjs = require("rollup-plugin-commonjs")
 
 exports = module.exports = {
-    input: 'index.js',
+    input: 'src/router.js',
     plugins: [
         resolve({
             jsnext: true, // 该属性是指定将Node包转换为ES2015模块

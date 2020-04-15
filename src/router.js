@@ -58,4 +58,4 @@ class Router {
     }
 }
 
-exports = exports.default = Router
+export default Router
